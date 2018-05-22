@@ -1,0 +1,6 @@
+lib/pytorch0.4/
+.vs/
+obj
+Debug
+Release
+Publish
